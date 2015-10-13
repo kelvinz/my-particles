@@ -20,7 +20,7 @@ Add myParticles.js
 Have a div with the id of myParticles.
 
 ```
-<div id="myParticles"></div>
+<div id="my-particles"></div>
 ```
 
 Add the script that attaches myParticles to the div.
