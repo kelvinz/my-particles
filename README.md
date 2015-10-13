@@ -7,7 +7,6 @@ Learning to create my first jQuery plugin.
 
 Assumes usage of:
 * [jQuery] (https://jquery.com/) for easier DOM manipulation
-* [TweenMax] (https://greensock.com/) for better animation, seriously
 
 ## Usage
 
@@ -41,12 +40,11 @@ Add the script that attaches myParticles to the div.
 </script>
 ```
 
-## Notes
+## Notes ( to self )
 
-Many more configurations to be added like; movement direction and particle shapes.
-But this will do for what I need now.
-Till laters.
-Cheers!
+* Add movement direction
+* Add real color options
+* Add particle shapes
 
 Feel free to use this or point out any mistakes.
 

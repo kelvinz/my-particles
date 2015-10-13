@@ -24,7 +24,7 @@
 		me.append( canvas );
 
 		// load up settings if any
-		var settings = $.extend(true, {}, {
+		var settings = $.extend( true, {}, {
 			// default settings
 			particleNum : 100,
 			phoneNum    : 30,
